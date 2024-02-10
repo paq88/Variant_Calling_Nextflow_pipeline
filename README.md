@@ -1,7 +1,7 @@
 Three pipelines were used for comparison 
 - Native Bash application
 - Single-process Nextflow where all of the pipeline was crammed into single Nextflow process
-- Multi-process Nextflow where each step of the pipeline was seperate Nextflow process (the correct way to design pipeline in managed system such as Nextflow)
+- Multi-process Nextflow where each step of the pipeline was seperate Nextflow process (the correct way to design pipeline in managed system such as Nextflow) "Variant_calling_pipeline_nextflow_0.9.nf"
 
 Files used can be found on ncbi database here are coresponding accesion numbers with links:
 fastq files for individuals:
