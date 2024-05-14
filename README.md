@@ -1,4 +1,6 @@
-You can learn more in our article [Link](https://academic.oup.com/nargab/article/6/2/lqae040/7659592 )
+You can learn more in our article: 
+
+[Nextflow vs. plain bash: different approaches to the parallelization of SNP calling from the whole genome sequence data](https://academic.oup.com/nargab/article/6/2/lqae040/7659592 )
 
 Three pipelines were used for comparison 
 - Native Bash application
