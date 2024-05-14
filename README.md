@@ -1,3 +1,5 @@
+You can learn more in our article [Link](https://academic.oup.com/nargab/article/6/2/lqae040/7659592 )
+
 Three pipelines were used for comparison 
 - Native Bash application
 - Single-process Nextflow where all of the pipeline was crammed into single Nextflow process
